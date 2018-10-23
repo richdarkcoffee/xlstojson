@@ -1,0 +1,23 @@
+{
+  "name": "xlstojson",
+  "version": "0.0.2",
+  "description": "A quick node script to transform XLS to JSON",
+  "main": "xlstojson.js",
+  "dependencies": {
+    "xlsx": "^0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richdarkcoffee/xlstojson.git"
+  },
+  "author": "Rich Dark Coffee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richdarkcoffee/xlstojson/issues"
+  },
+  "homepage": "https://github.com/richdarkcoffee/xlstojson#readme"
+}
